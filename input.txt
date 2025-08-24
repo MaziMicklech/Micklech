@@ -1,0 +1,3 @@
+Hello, this is a test file.
+Learning Python file handling is fun!
+Come Lets explore together.
