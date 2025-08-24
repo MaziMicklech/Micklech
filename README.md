@@ -1,2 +1,2 @@
 # Micklech
-This Repo is My Learning demo
+This Repo is my journey into python and hands on projects and assignments
